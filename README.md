@@ -21,8 +21,7 @@ This project explores how crypto market sentiment (Fear/Greed Index) influences 
 
 - `sentiment_trading_analysis.ipynb`: Full Jupyter Notebook (EDA + ML)
 - `data/`: Sample data files (optional)
-- `output/`: Saved visualizations (optional)
-- `requirements.txt`: Python packages needed
+
 
 ## 🚀 How to Run
 
